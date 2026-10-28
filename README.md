@@ -16,7 +16,9 @@ More recently, I've been expanding my hands-on work in:
 
 ## What I'm interested in
 
-I'm especially interested in opportunities where **customer experience, technology, product, and AI intersect** — including Customer Success, Service Delivery, Support leadership, Product, and related technology roles.
+I'm especially interested in opportunities where **customer experience, technology, product, AI, and software engineering intersect** — including Customer Success, Service Delivery, Support leadership, Product, and related technology roles.
+
+I'm also increasingly focused on **building software with AI-native and multi-agent engineering workflows**: using specialized AI agents across product definition, implementation, testing, code review, and delivery while keeping strong human judgment, governance, and engineering safeguards in the loop.
 
 ## Current work
 
